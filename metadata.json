@@ -1,0 +1,6 @@
+{
+  "name": "NES ROM Header Studio",
+  "description": "Convert natural language descriptions, text specifications, hex, and assembly code into valid 16-byte iNES and NES 2.0 ROM headers with live bitfield inspection, mapper support, and ROM patching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
